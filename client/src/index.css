@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgba(212, 189, 145, 0.459);
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.feedWrapper{
+  padding-top: 60px;
+  padding-bottom: 60px;
+  flex-grow: 1;
+  margin: 30px auto;
+  max-width: 500px;
+  position: relative;
+  width: 100%;
+  
+}
+
+.editProfileForm {
+  margin: 5% 0%;
+}
+
+.fav-foods {
+  display: inline;
+}
+
+.submitDish{
+  width: 100%;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: 999;
+}
+
+.dish-btn{
+  display: fixed;
+  width: 200px;
+  font-style: italic;
+  background-color: #c2404d;
+  color: rgb(218, 153, 32);
+}
+
+.container .container-fluid{
+  margin-bottom: 80px;
+}

@@ -1,0 +1,48 @@
+.card-body{
+    padding: 5px;
+}
+
+/* this adds a space before the date/time is shown */
+time {
+    margin-left: 2%;
+}
+
+.list-group-item{
+    padding: 5px;
+}
+
+.btn-primary{
+    width: 50%;
+    background: rgb(241, 180, 65);
+    border-color: black;
+    color: black;
+}
+
+.btn-primary:hover{
+    background-color: #c2404d;
+    color: white;
+    border-color: #c2404d;
+}
+
+.btn-primary:visited{
+    border-style: none;
+}
+
+.card-link{
+    color: black;
+}
+
+.card-link:hover{
+    color: white;
+}
+
+.card{
+    margin-bottom: 50px;
+    box-shadow: 5px 10px 8px rgb(97, 96, 96);
+    border-color: rgb(241, 180, 65);
+    border-style: solid;
+    border-width: 5px;
+}
+
+
+
