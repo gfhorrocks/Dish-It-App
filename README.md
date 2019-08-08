@@ -1,5 +1,7 @@
 Dish-it App
 
+https://dish-it-app.herokuapp.com/
+
 The place for food and friends
 
 Technologies used:
