@@ -16,7 +16,7 @@
     "file-type": "^12.0.1",
     "fs": "0.0.1-security",
     "moment-timezone": "^0.5.26",
-    "mongoose": "^5.3.16",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "multiparty": "^4.2.1",
     "react": "^16.8.6",
